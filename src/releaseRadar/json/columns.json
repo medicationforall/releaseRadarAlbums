@@ -1,0 +1,29 @@
+[
+
+  {
+    "id":"artists",
+    "label":"Artist",
+    "type":"string"
+  },
+  {
+    "id":"image",
+    "label":"Image",
+    "type":"image"
+  },
+  {
+    "id":"name",
+    "label":"Album",
+    "type":"string",
+    "primary":true
+  },
+  {
+    "id":"tracks",
+    "label":"Tracks",
+    "type":"int"
+  },
+  {
+    "id":"release_date",
+    "label":"Release",
+    "type":"date"
+  }
+]
