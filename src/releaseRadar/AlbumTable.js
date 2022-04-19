@@ -65,7 +65,7 @@ function _renderString(value, row){
 }
 
 function _renderImage(value, row){
-  return (<img src={value}/>);
+  return (<img alt={row.name} src={value}/>);
 }
 
 function _renderDate(value,row){
