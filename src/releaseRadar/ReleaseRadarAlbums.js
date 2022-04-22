@@ -11,7 +11,7 @@ function ReleaseRadarAlbums(props){
 
   return (
     <div className="releaseRadarAlbums">
-      <h1>Spotify Release Radar Albums 2</h1>
+      <h1>Spotify Release Radar Albums</h1>
       <Table
         columns={columns}
         rows={albums}
